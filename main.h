@@ -1,0 +1,14 @@
+//
+// Created by masno on 3/11/2023.
+//
+
+#ifndef ALGORITHMS_AND_DATA_STRUCTURESZ3_MAIN_H
+#define ALGORITHMS_AND_DATA_STRUCTURESZ3_MAIN_H
+
+
+class main {
+
+};
+
+
+#endif //ALGORITHMS_AND_DATA_STRUCTURESZ3_MAIN_H
